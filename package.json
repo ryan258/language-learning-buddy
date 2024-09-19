@@ -1,0 +1,25 @@
+{
+  "name": "language-learning-buddy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "inquirer": "^8.2.6",
+    "ora": "^8.1.0",
+    "p-limit": "^6.1.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
